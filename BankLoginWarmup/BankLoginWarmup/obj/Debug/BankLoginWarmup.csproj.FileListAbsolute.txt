@@ -1,0 +1,20 @@
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.exe.config
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.exe
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.pdb
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csproj.AssemblyReference.cache
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.Properties.Resources.resources
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csproj.GenerateResource.cache
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csproj.CoreCompileInputs.cache
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.exe
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.pdb
+C:\Users\Serj.Petrossian\source\repos\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.signupLabel.resources
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.exe.config
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.exe
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\bin\Debug\BankLoginWarmup.pdb
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.signupLabel.resources
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.Properties.Resources.resources
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.exe
+\\GMRDC1\Folder Redirection\Serj.Petrossian\Documents\Visual Studio 2019\Projects\BankLoginWarmup\BankLoginWarmup\obj\Debug\BankLoginWarmup.pdb
