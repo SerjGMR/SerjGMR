@@ -1,0 +1,20 @@
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\serjp\Documents\Visual Studio 2019\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\serjp\Documents\GitHub\SerjGMR\Snake\Snake\obj\Debug\Snake.pdb
